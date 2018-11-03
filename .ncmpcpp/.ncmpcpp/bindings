@@ -1,0 +1,19 @@
+def_key "j"
+    scroll_down
+def_key "k"
+    scroll_up
+def_key "l"
+    play_item
+def_key "u"
+    page_up
+#push_characters "kkkkkkkkkkkkkkk"
+def_key "d"
+    page_down
+#push_characters "jjjjjjjjjjjjjjj"
+def_key "ctrl-u"
+    update_database
+
+def_key "n"
+    next_found_item
+def_key "N"
+    previous_found_item

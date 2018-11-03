@@ -1,0 +1,1748 @@
+info_begin
+format: 2
+mpd_version: 0.21
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumSort
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: OriginalDate
+tag: Composer
+tag: Performer
+tag: Disc
+tag: Label
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+tag: MUSICBRAINZ_RELEASETRACKID
+tag: MUSICBRAINZ_WORKID
+info_end
+directory: CloudMusic
+mtime: 1539587101
+begin: CloudMusic
+song_begin: World Beyond - Remnant of the Distant Future.wav
+Time: 193.153000
+Format: 44100:16:2
+mtime: 1525196898
+song_end
+song_begin: 阮豆 - 我唱情歌给你听（Cover 吴海啸 ／ 黄雯婷）.mp3
+Time: 220.316000
+Artist: 阮豆
+Title: 我唱情歌给你听（Cover 吴海啸 / 黄雯婷）
+Album: 〔520甜蜜合集〕甜你一下
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1522771567
+song_end
+song_begin: Hall of Fame.mp3
+Time: 202.657000
+Artist: The Script
+Title: Hall of Fame
+Album: #3 Deluxe Version
+Track: 3
+Disc: 1
+Format: 44100:24:2
+mtime: 1536010635
+song_end
+song_begin: ClariS - irony.mp3
+Time: 259.343000
+Artist: ClariS
+Title: irony
+Album: ～俺の妹がこんなに可愛いわけがない。Complete Collection+～俺妹。コンプ+!
+Track: 1
+Disc: 2
+Format: 44100:24:2
+mtime: 1519740492
+song_end
+song_begin: 大橋卓弥 - ありがとう.mp3
+Time: 303.046000
+Artist: ´óò×¿ÃÖ
+AlbumArtist: ´óò×¿ÃÖ
+Title: ¤¢¤ê¤¬¤È¤¦
+Album: ¤¢¤ê¤¬¤È¤¦
+Track: 1
+Date: 2008
+Genre: DOMESTIC(J-POPS)
+Disc: 1
+Label: £Á£Õ£Ç£Õ£Ó£Ô£Á¡¡£Ò£Å£Ã£Ï£Ò£Ä£Ó
+Format: 44100:24:2
+mtime: 1522165738
+song_end
+song_begin: Serebro - Mi Mi Mi.mp3
+Time: 194.455000
+Artist: Serebro
+Title: Mi Mi Mi
+Album: 100X Zomer 2014
+Track: 18
+Date: 2014
+Genre: Dance
+Disc: 3
+Format: 44100:24:2
+mtime: 1504460739
+song_end
+song_begin: 岸部眞明 - Time travel.mp3
+Time: 253.936000
+Artist: 岸部眞明
+Title: Time travel
+Album: 12 Stories
+Track: 3
+Date: 2009
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740494
+song_end
+song_begin: 新乐尘符 - 123我爱你.mp3
+Time: 199.575000
+Artist: 新乐尘符
+Title: 123我爱你
+Album: 123我爱你
+Track: 1
+Format: 44100:24:2
+mtime: 1519740464
+song_end
+song_begin: nin - 时ノ雨、最终戦争.mp3
+Time: 220.290000
+Artist: nin
+Title: 时ノ雨、最终戦争
+Album: 2016.11以前的合集
+Track: 5
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480602
+song_end
+song_begin: mizuki - aLIEz.mp3
+Time: 268.512000
+Artist: mizuki
+Title: aLIEz
+Album: A/Z | aLIEz
+Track: 3
+Date: 2014
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480633
+song_end
+song_begin: 澤野弘之 - aLIEz (instrumental).mp3
+Time: 268.695000
+Artist: 澤野弘之
+Title: aLIEz (instrumental)
+Album: A/Z | aLIEz
+Track: 8
+Date: 2014
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480664
+song_end
+song_begin: つじあやの - 風になる.mp3
+Time: 249.443000
+Artist: ¤Ä¤¸¤¢¤ä¤Î
+AlbumArtist: ¤Ä¤¸¤¢¤ä¤Î
+Title: ïL¤Ë¤Ê¤ë
+Album: Ã¨¤Î¶÷·µ¤·
+Track: 25
+Genre: ¥Ý¥Ã¥×
+Composer: ¤Ä¤¸¤¢¤ä¤Î
+Disc: 1
+Format: 44100:24:2
+mtime: 1522165734
+song_end
+song_begin: MitiS - Ascension (Remix).mp3
+Time: 221.727000
+Artist: MitiS
+AlbumArtist: Glenn Branca
+Title: Ascension (Remix)
+Album: Ascension (MitiS Remix)
+Track: 1
+Date: 1981
+Genre: Other
+Composer: Glenn Branca
+Disc: 1
+Label: Acute
+Format: 44100:24:2
+mtime: 1522165733
+song_end
+song_begin: つじあやの - 风になる.mp3
+Time: 278.700000
+Artist: ¤Ä¤¸¤¢¤ä¤Î
+AlbumArtist: Various Artists
+Title: ·ç¤Ë¤Ê¤ë
+Album: ÁµÁµ·ç¸è
+Track: 9
+Date: 2008
+Genre: Jazz
+Disc: 1
+Label: JVC Compact Discs
+Format: 44100:24:2
+mtime: 1522165734
+song_end
+song_begin: Backstreet Boys - As Long as You Love Me.mp3
+Time: 212.088000
+Artist: Backstreet Boys
+Title: As Long as You Love Me
+Album: Backstreet Boys (US Version)
+Track: 3
+Date: 2011-10-10
+Disc: 1
+Format: 44100:24:2
+mtime: 1504460725
+song_end
+song_begin: Two Steps From Hell - Victory.mp3
+Time: 320.496000
+Artist: Two Steps From Hell
+Title: Victory
+Album: Battlecry
+Track: 3
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740467
+song_end
+song_begin: Two Steps From Hell - Star Sky.mp3
+Time: 330.605000
+Artist: Two Steps From Hell
+Title: Star Sky
+Album: Battlecry
+Track: 24
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740501
+song_end
+song_begin: mizuki - A／Z.mp3
+Time: 318.667000
+Artist: mizuki
+Title: A/Z
+Album: BEST OF VOCAL WORKS [nZk]
+Track: 19
+Date: 2015
+Genre: Anime
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480613
+song_end
+song_begin: Deep Side - Booty Music.mp3
+Time: 181.812000
+Artist: Deep Side
+Title: Booty Music
+Album: Booty Music
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480625
+song_end
+song_begin: ReSound Wave - 渚.mp3
+Time: 333.871000
+Artist: ReSound Wave
+AlbumArtist: Key
+Title: ä¾
+Album: CLANNAD ¨C The sound story of impression I
+Track: 3
+Genre: ¥µ¥¦¥ó¥É¥È¥é¥Ã¥¯
+Composer: ÂéÖ¦×¼
+Disc: 1
+Format: 44100:24:2
+mtime: 1522165733
+song_end
+song_begin: 麻枝准 - 母から子へ受け継がれる小さな呗.mp3
+Time: 449.018000
+Artist: 麻枝准
+Title: 母から子へ受け継がれる小さな呗
+Album: CLANNAD arrange album 'MABINOGI'
+Track: 8
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480583
+song_end
+song_begin: riya - 小さなてのひら.mp3
+Time: 285.048000
+Artist: riya
+Title: 小さなてのひら
+Album: CLANNAD ORIGINAL SOUNDTRACK
+Track: 17
+Disc: 2
+Format: 44100:24:2
+mtime: 1504480535
+song_end
+song_begin: まじ娘 - アイロニ.mp3
+Time: 244.114000
+Artist: ¤Þ¤¸Äï
+AlbumArtist: majiko
+Title: ¥¢¥¤¥í¥Ë
+Album: Contrast
+Track: 3
+Date: 2015
+Genre: DOMESTIC(J-POPS)
+Disc: 1
+Label: £Å£Ø£É£Ô¡¡£Ô£Õ£Î£Å£Ó
+Format: 44100:24:2
+mtime: 1522165736
+song_end
+song_begin: Cynic.mp3
+Time: 219.428000
+Artist: 闇音レンリ
+Title: Cynic
+Album: Cynic
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1533172361
+song_end
+song_begin: 和田光司 - Butter-Fly.mp3
+Time: 258.037000
+Artist: ºÍÌï¹âË¾
+AlbumArtist: Soundtrack
+Title: Butter-Fly
+Album: DIGIMON HISTORY 1999-2006 All The Best
+Track: 1
+Date: 2001
+Genre: Soundtrack
+Disc: 1
+Label: Inter Channel
+Format: 44100:24:2
+mtime: 1522165737
+song_end
+song_begin: Cymophane - Tassel.mp3
+Time: 270.106000
+Artist: Cymophane
+Title: Tassel
+Album: Dulcet Series spring special collection
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740503
+song_end
+song_begin: 茶太 - Secret.mp3
+Time: 276.088000
+Artist: 茶太
+Title: Secret
+Album: eclipse 改
+Track: 13
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480871
+song_end
+song_begin: 高梨康治 - 旅立ちの序曲 ~OVERTUREFAIRY TAIL メインテーマ~.mp3
+Time: 151.902000
+Artist: 高梨康治
+Title: 旅立ちの序曲 ~OVERTUREFAIRY TAIL メインテーマ~
+Album: FAIRY TAIL -HOUOU NO MIKO- O.S.T
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480505
+song_end
+song_begin: タイナカ彩智 - disillusion.mp3
+Time: 247.562000
+Artist: タイナカ彩智
+Title: disillusion
+Album: Fate / stay night OPテーマソング“disillusion”
+Track: 1
+Date: 2010
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480937
+song_end
+song_begin: 南澤大介 - At Zanarkand.mp3
+Time: 168.071000
+Artist: 南澤大介
+Title: At Zanarkand
+Album: Final Fantasy Solo Guitar Collections vol.1
+Track: 20
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740474
+song_end
+song_begin: Katy Perry - Firework.mp3
+Time: 227.944000
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Firework
+Album: Firework
+Track: 1
+Date: 2010
+Genre: 2871217_289915
+Composer: Ester Dean/Katy Perry/Mikkel Storleer Eriksen/Sandy Wilhelm/Tor Erik Hermansen
+Disc: 1
+Label: EMI Music Distribution
+Format: 44100:24:2
+mtime: 1515673749
+song_end
+song_begin: Mark Petrie - Go Time.mp3
+Time: 136.097000
+Artist: Mark Petrie
+AlbumArtist: Digitalism
+Title: Go Time
+Album: Go Time
+Track: 1
+Date: 2016
+Genre: Dance
+Disc: 1
+Label: PIAS
+Format: 44100:24:2
+mtime: 1515674391
+song_end
+song_begin: Groove Coverage - God is a Girl (Album Version).mp3
+Time: 184.424000
+Artist: Groove Coverage
+Title: God is a Girl (Album Version)
+Album: God Is a Girl
+Track: 2
+Date: 2008
+Genre: Disco
+Disc: 1
+Format: 44100:24:2
+mtime: 1504460741
+song_end
+song_begin: 石渡太輔 - Fatal Duel (Same Character's Theme).mp3
+Time: 159.843000
+Artist: 石渡太輔
+Title: Fatal Duel (Same Character's Theme)
+Album: Guilty Gear Sound Complete Box
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480560
+song_end
+song_begin: V.A. - ＂To Zanarkand — Final Fantasy X.mp3
+Time: 111.621000
+Artist: V.A.
+Title: "To Zanarkand — Final Fantasy X
+Album: Guitar Solo Final Fantasy Best Collection
+Track: 21
+Disc: 1
+Format: 44100:24:2
+mtime: 1522771605
+song_end
+song_begin: KARAKURI - B.A.A.B.mp3
+Time: 222.928000
+Artist: KARAKURI
+Title: B.A.A.B.
+Album: H-A-J-I-M-A-L-B-U-M-!!
+Track: 10
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480498
+song_end
+song_begin: Hundred Percent Free - Hello Mr.my yesterday (1).mp3
+Time: 272.587000
+Artist: Hundred Percent Free
+Title: Hello Mr.my yesterday
+Album: Hello Mr.my yesterday
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740474
+song_end
+song_begin: Asher Book - Here With You.mp3
+Time: 225.567000
+Artist: Asher Book
+Title: Here With You
+Album: Here With You
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504460775
+song_end
+song_begin: 前田愛 - I wish.mp3
+Time: 244.506000
+Artist: 前田愛
+Title: I wish
+Album: I wish
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740460
+song_end
+song_begin: 綾野ましろ - ideal white.mp3
+Time: 257.201000
+Artist: 綾野ましろ
+Title: ideal white
+Album: ideal white(期間生産限定アニメ盤)
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480895
+song_end
+song_begin: Amy Chanrich - IF You & Faded Remix.mp3
+Time: 262.086000
+Artist: Amy Chanrich
+Title: IF You & Faded Remix
+Album: IF You & Faded Remix
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480655
+song_end
+song_begin: Nightwish - I Want My Tears Back.mp3
+Time: 307.565000
+Artist: Nightwish
+Title: I Want My Tears Back
+Album: Imaginaerum
+Track: 5
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480539
+song_end
+song_begin: John The Whistler - I'm In Love.mp3
+Time: 210.416000
+Artist: John The Whistler
+Title: I'm In Love
+Album: It's Crazy
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740445
+song_end
+song_begin: Bon Jovi - It's My Life.mp3
+Time: 224.626000
+Artist: Bon Jovi
+AlbumArtist: Bon Jovi
+Title: It's My Life
+Album: It's My Life
+Track: 1
+Date: 2000
+Genre: Rock
+Composer: Jon Bon Jovi/Max Martin/Richie Sambora
+Disc: 1
+Label: Universal Distribution
+Format: 44100:24:2
+mtime: 1515673670
+song_end
+song_begin: 岩田さゆり - 空飛ぶあの白い雲のように.mp3
+Time: 283.689000
+Artist: ÑÒÌï¤µ¤æ¤ê
+AlbumArtist: VARIOUS ARTISTS
+Title: ¿Õïw¤Ö¤¢¤Î°×¤¤ë¤Î¤è¤¦¤Ë
+Album: Iwata Sayuri Best+
+Track: 4
+Date: 2008
+Genre: DOMESTIC(J-POPS)
+Disc: 1
+Label: ¥®¥¶
+Format: 44100:24:2
+mtime: 1522165741
+song_end
+song_begin: 花澤香菜 - sweets parade.mp3
+Time: 103.366000
+Artist: 花澤香菜
+Title: sweets parade
+Album: KANAight 花澤香菜キャラソン ハイパークロニクルミックス
+Track: 30
+Disc: 2
+Format: 44100:24:2
+mtime: 1519740461
+song_end
+song_begin: 火花.mp3
+Time: 233.534000
+Artist: 高耀太
+Title: 불꽃
+Album: Koyote Vol.6
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1535870282
+song_end
+song_begin: Ann Winsborn - La La Love On My Mind.mp3
+Time: 181.498000
+Artist: Ann Winsborn
+AlbumArtist: Elize
+Title: La La Love On My Mind
+Album: La La La Love on My Mind
+Track: 1
+Date: 2005
+Genre: 2177028_219517
+Disc: 1
+Label: Central Station Records
+Format: 44100:24:2
+mtime: 1515673660
+song_end
+song_begin: fripSide - LEVEL5 -judgelight-.mp3
+Time: 265.325000
+Artist: fripSide
+AlbumArtist: fripSide
+Title: LEVEL5 -judgelight-
+Album: LEVEL5-judgelight-
+Track: 1
+Date: 2010
+Genre: DOMESTIC(J-POPS)
+Disc: 1
+Label: £Ç£Å£Î£Å£Ï£Î¡¡£Õ£Î£É£Ö£Å£Ò£Ó£Á£Ì
+Format: 44100:24:2
+mtime: 1515673713
+song_end
+song_begin: Eminem,Rihanna - Love The Way You Lie.mp3
+Time: 263.601000
+Artist: Eminem/Rihanna
+AlbumArtist: Eminem
+Title: Love The Way You Lie
+Album: Life After Recovery
+Track: 19
+Date: 2010
+Genre: Hip-Hop
+Composer: Marshall Mathers
+Disc: 1
+Label: Interscope
+Format: 44100:24:2
+mtime: 1515673704
+song_end
+song_begin: 川嶋あい - それが大事.mp3
+Time: 288.888000
+Artist: 川嶋あい
+Title: それが大事
+Album: My favorite songs~WING~
+Track: 13
+Date: 2011
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740479
+song_end
+song_begin: fripSide - only my railgun.mp3
+Time: 257.123000
+Artist: fripSide
+Title: only my railgun
+Album: only my railgun
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480905
+song_end
+song_begin: fripSide - late in autumn.mp3
+Time: 369.475000
+Artist: fripSide
+Title: late in autumn
+Album: only my railgun
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740477
+song_end
+song_begin: m.o.v.e - Rage your dream.mp3
+Time: 273.293000
+Artist: m.o.v.e
+Title: Rage your dream
+Album: Rage your dream/around the world
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504460775
+song_end
+song_begin: 高杉さと美 - 空も飛べるはず.mp3
+Time: 269.531000
+Artist: 高杉さと美
+Title: 空も飛べるはず
+Album: Satomi
+Track: 4
+Date: 2013
+Genre: Pop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480654
+song_end
+song_begin: Joy Gruttmann - Schnappi.mp3
+Time: 131.552000
+Artist: Joy Gruttmann
+AlbumArtist: Joy Gruttmann
+Title: Schnappi
+Album: Schnappi und Seine Freunde
+Track: 1
+Genre: Other
+Composer: Iris Gruttmann
+Disc: 1
+Format: 44100:24:2
+mtime: 1515673736
+song_end
+song_begin: 茅野愛衣,戸松遥,早見沙織 - secret base ~君がくれたもの~ (Memento mori Ver.).mp3
+Time: 280.398000
+Artist: 茅野愛衣/戸松遥/早見沙織
+Title: secret base ~君がくれたもの~ (Memento mori Ver.)
+Album: secret base～君がくれたもの～
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480898
+song_end
+song_begin: 大野爱果 - Secret of My Heart.mp3
+Time: 370.755000
+Artist: ´óÒ°°®¹û
+AlbumArtist: VARIOUS ARTISTS
+Title: Secret of My Heart
+Album: Shadows of Dreams
+Track: 6
+Date: 2008
+Genre: DOMESTIC(J-POPS)
+Disc: 1
+Label: ¥®¥¶
+Format: 44100:24:2
+mtime: 1522165739
+song_end
+song_begin: WANDS - 世界が終るまでは.mp3
+Time: 314.566000
+Artist: WANDS
+Title: 世界が終るまでは
+Album: SLAM DUNK BEST COLLECTION
+Track: 31
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480723
+song_end
+song_begin: Kelly Clarkson - Stronger (What Doesn't Kill You).mp3
+Time: 221.988000
+Artist: Kelly Clarkson
+AlbumArtist: Kelly Clarkson
+Title: Stronger (What Doesn't Kill You)
+Album: Stronger
+Track: 2
+Date: 2011
+Genre: Pop
+Composer: Ali Tamposi/David Gamson/Greg Kurstin/Jörgen Elofsson
+Disc: 1
+Label: RCA
+Format: 44100:24:2
+mtime: 1515674381
+song_end
+song_begin: Dennis Kuo - Neptune Illusion.mp3
+Time: 287.529000
+Artist: Dennis Kuo
+Title: Neptune Illusion
+Album: Study Music Project: Music For The Mind
+Track: 5
+Date: 2010
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480651
+song_end
+song_begin: Ina - I wanted you.mp3
+Time: 233.404000
+Artist: Ina
+Title: I wanted you
+Album: Suddenly
+Track: 3
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740468
+song_end
+song_begin: Amy Diamond - Heartbeats.mp3
+Time: 235.964000
+Artist: Amy Diamond
+AlbumArtist: Amy Diamond
+Title: Heartbeats
+Album: Swings & Roundabouts
+Track: 9
+Date: 2009
+Genre: Dance
+Composer: Robert Habolin
+Disc: 1
+Label: Bonnier Sweden
+Format: 44100:24:2
+mtime: 1515673644
+song_end
+song_begin: 岩田さゆり - Thank You For Everything.mp3
+Time: 271.516000
+Artist: 岩田さゆり
+Title: Thank You For Everything
+Album: Thank You For Everything
+Track: 1
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480504
+song_end
+song_begin: 岩田さゆり - Thank You For Everything(TV version).mp3
+Time: 271.882000
+Artist: 岩田さゆり
+Title: Thank You For Everything(TV version)
+Album: Thank You For Everything
+Track: 3
+Date: 2008
+Genre: J-Pop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480824
+song_end
+song_begin: 杏子 - Happy Birthday.mp3
+Time: 290.403000
+Artist: 杏子
+Title: Happy Birthday
+Album: The Best of Detective Conan (The Movie Themes Collection)
+Track: 10
+Date: 1997
+Genre: Rock
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480772
+song_end
+song_begin: 三枝夕夏 IN db,愛内里菜 - 七つの海を渡る风のように.mp3
+Time: 236.643000
+Artist: 三枝夕夏 IN db/愛内里菜
+Title: 七つの海を渡る风のように
+Album: THE BEST OF DETECTIVE CONAN3~名探侦コナン テーマ曲集3~
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740482
+song_end
+song_begin: 竹井詩織里 - 世界 止めて.mp3
+Time: 261.198000
+Artist: 竹井詩織里
+Title: 世界 止めて
+Album: THE BEST OF DETECTIVE CONAN3~名探侦コナン テーマ曲集3~
+Track: 18
+Date: 2008
+Genre: J-Pop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480739
+song_end
+song_begin: BAAD - 君が好きだと叫びたい.mp3
+Time: 230.400000
+Artist: BAAD
+Title: 君が好きだと叫びたい
+Album: THE BEST OF TV ANIMATION SLAM DUNK~Single Collection~
+Track: 1
+Date: 2003-07-21
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480512
+song_end
+song_begin: Edguy - Superheroes.mp3
+Time: 199.288000
+Artist: Edguy
+AlbumArtist: Edguy
+Title: Superheroes
+Album: The Singles
+Track: 1
+Date: 2006
+Genre: 17568357_1618147
+Composer: Tobias Sammet
+Disc: 1
+Label: Nuclear Blast
+Format: 44100:24:2
+mtime: 1515673691
+song_end
+song_begin: Pianoboy高至豪 - The truth that you leave.mp3
+Time: 223.137000
+Artist: Pianoboy高至豪
+Title: The truth that you leave
+Album: The truth that you leave
+Track: 1
+Genre: 139774_13934
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740479
+song_end
+song_begin: のぶなが - 深海少女.mp3
+Time: 216.842000
+Artist: のぶなが
+Title: 深海少女
+Album: voices in a bottle ～海を越え届いた歌声～
+Track: 11
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480877
+song_end
+song_begin: encounter+ - 遠天、とある忘れ物.mp3
+Time: 195.944000
+Artist: encounter+
+Title: 遠天、とある忘れ物
+Album: Wanderlust
+Track: 4
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740494
+song_end
+song_begin: Sofia Jannok - Liekkas - Warm.mp3
+Time: 257.880000
+Artist: Sofia Jannok
+Title: Liekkas - Warm
+Album: White - Ceaskat
+Track: 8
+Genre: 19125884_1753309
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480953
+song_end
+song_begin: DAISHI DANCE,Cecile Corbel - Take me hand.mp3
+Time: 260.022000
+Artist: DAISHI DANCE/Cecile Corbel
+AlbumArtist: DAISHI DANCE
+Title: Take me hand
+Album: WONDER Tourism
+Track: 4
+Date: 2012
+Genre: House
+Disc: 1
+Label: ¥æ¥Ë¥Ð©`¥µ¥ë£Ê
+Format: 44100:24:2
+mtime: 1515673678
+song_end
+song_begin: 张卫健 - 法术乌魔多.mp3
+Time: 136.333000
+Artist: 张卫健
+Title: 法术乌魔多
+Album: Yo!张卫健之西游记
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740469
+song_end
+song_begin: 张卫健 - 天外有天.mp3
+Time: 181.211000
+Artist: 张卫健
+Title: 天外有天
+Album: Yo!张卫健之西游记
+Track: 3
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740470
+song_end
+song_begin: GALA - Young For You.mp3
+Time: 218.827000
+Artist: GALA
+Title: Young For You
+Album: Young For You
+Track: 7
+Genre: 356034_35147
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480952
+song_end
+song_begin: ZARD - 星のかがやきよ.mp3
+Time: 230.896000
+Artist: ZARD
+Title: 星のかがやきよ
+Album: ZARD ALBUM COLLECTION ~20th ANNIVERSARY~
+Track: 110
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740490
+song_end
+song_begin: ZARD - 远い日のNostalgia(Acoustic arrange ver.) - unplug.mp3
+Time: 271.360000
+Artist: ZARD
+Title: 远い日のNostalgia(Acoustic arrange ver.) - unplug
+Album: ZARD ALBUM COLLECTION ~20th ANNIVERSARY~
+Track: 123
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740463
+song_end
+song_begin: ZARD - 悲しいほど貴方が好き.mp3
+Time: 291.160000
+Artist: ZARD
+Title: 悲しいほど貴方が好き
+Album: ZARD SINGLE COLLECTION~20th ANNIVERSARY~
+Track: 83
+Date: 2007
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480775
+song_end
+song_begin: ZARD - 雨に濡れて.mp3
+Time: 265.273000
+Artist: ZARD
+Title: 雨に濡れて
+Album: ZARD What a beautiful memory 2009
+Track: 8
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740488
+song_end
+song_begin: 锦零 - 啷个哩个啷（Cover 鹏泊）.mp3
+Time: 187.141000
+Artist: 锦零
+Title: 啷个哩个啷（Cover 鹏泊）
+Album: zero
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1522771606
+song_end
+song_begin: 锦零 - 豆花之歌（Cover 仙后）.mp3
+Time: 224.862000
+Artist: 锦零
+Title: 豆花之歌（Cover 仙后）
+Album: zero
+Track: 3
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740464
+song_end
+song_begin: 澤野弘之,小林未郁 - BRE@TH／／LESS.mp3
+Time: 242.024000
+Artist: 澤野弘之/小林未郁
+Title: BRE@TH//LESS
+Album: アルドノア・ゼロ オリジナル・サウンドトラック
+Track: 20
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480676
+song_end
+song_begin: 田中あいみ - かくしん的☆めたまるふぉ～ぜっ!.mp3
+Time: 212.009000
+Artist: 田中あいみ
+Title: かくしん的☆めたまるふぉ～ぜっ!
+Album: かくしん的☆めたまるふぉ~ぜっ!
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740496
+song_end
+song_begin: AUZ - さくら~小樱小樱想见你.mp3
+Time: 285.257000
+Artist: AUZ
+Title: さくら~小樱小樱想见你
+Album: さくら
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480571
+song_end
+song_begin: 伊藤サチコ - いつも何度でも.mp3
+Time: 228.362000
+Artist: 伊藤サチコ
+Title: いつも何度でも
+Album: ジブリを聴きながら、上を向いて歩こう
+Track: 10
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480853
+song_end
+song_begin: ちぃむdmp☆ - ろりこんでよかった～.mp3
+Time: 207.516000
+Artist: ちぃむdmp☆
+Title: ろりこんでよかった～
+Album: だめぽじゃないですでんぱですっ!!
+Track: 7
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480757
+song_end
+song_begin: 和田光司 - Butter-Fly (ピアノヴァージョン).mp3
+Time: 143.098000
+Artist: 和田光司
+Title: Butter-Fly (ピアノヴァージョン)
+Album: デジモンオープニングベストスピリット
+Track: 6
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740476
+song_end
+song_begin: 橋本潮 - ロマンティックあげるよ(TV ver.).mp3
+Time: 96.313000
+Artist: 橋本潮
+Title: ロマンティックあげるよ(TV ver.)
+Album: ドラゴンボール音乐集
+Track: 14
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480661
+song_end
+song_begin: 浜渦正志 - あの日の空 (Ano Nichi no Sora)The Sky of that Day.mp3
+Time: 84.114000
+Artist: 浜渦正志
+Title: あの日の空 (Ano Nichi no Sora)The Sky of that Day
+Album: ファイナルファンタジーXIII オリジナル・サウンドトラック
+Track: 14
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480708
+song_end
+song_begin: 浜渦正志 - サンレス水郷 (Sanresu Mizu Sato)The Sunleth Waterscape.mp3
+Time: 226.560000
+Artist: 浜渦正志
+Title: サンレス水郷 (Sanresu Mizu Sato)The Sunleth Waterscape
+Album: ファイナルファンタジーXIII オリジナル・サウンドトラック
+Track: 35
+Date: 2010
+Genre: Game
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480935
+song_end
+song_begin: 焚吐 - ふたりの秒針.mp3
+Time: 267.493000
+Artist: 焚吐
+Title: ふたりの秒針
+Album: ふたりの秒針
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740472
+song_end
+song_begin: いきものがかり - ブルーバード.mp3
+Time: 215.823000
+Artist: いきものがかり
+Title: ブルーバード
+Album: ブルーバード
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1507542315
+song_end
+song_begin: 茶太,真理絵,くない瓜 - だんご大家族.mp3
+Time: 273.031000
+Artist: 茶太/真理絵/くない瓜/Rio/Morrigan/藤枝あかね/たくまる
+Title: だんご大家族
+Album: メグメル/だんご大家族
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480522
+song_end
+song_begin: 鹿乃 - 心做し.mp3
+Time: 269.792000
+Artist: 鹿乃
+Title: 心做し
+Album: メリー
+Track: 6
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480855
+song_end
+song_begin: 桃箱,ななひら - ごろごろにゃんこ(ボイスドラマ).mp3
+Time: 143.020000
+Artist: 桃箱/ななひら
+Title: ごろごろにゃんこ(ボイスドラマ)
+Album: もーっと☆ちっちゃいのっ！
+Track: 9
+Date: 2013
+Genre: Denpa
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480762
+song_end
+song_begin: ZARD - もう探さない.mp3
+Time: 306.442000
+Artist: ZARD
+Title: もう探さない
+Album: もう探さない
+Track: 1
+Date: 1991
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740488
+song_end
+song_begin: 逃跑计划 - 夜空中最亮的星.mp3
+Time: 252.264000
+Artist: 逃跑计划
+Title: 夜空中最亮的星
+Album: 世界
+Track: 7
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480704
+song_end
+song_begin: Dropの小屋。 - 静寂の森(U.N.オーエンは彼女なのか？ [东方红魔郷]).mp3
+Time: 128.626000
+Artist: Dropの小屋。
+Title: 静寂の森(U.N.オーエンは彼女なのか? [东方红魔郷])
+Album: 东方バロック纪行
+Track: 6
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480707
+song_end
+song_begin: CiDRE - 东京不太热(日语版).mp3
+Time: 228.963000
+Artist: CiDRE
+Title: 东京不太热(日语版)
+Album: 最新热歌慢摇100
+Track: 1
+Genre: Other
+Format: 44100:24:2
+mtime: 1504480915
+song_end
+song_begin: 小緣 - 優しい詩.mp3
+Time: 354.925000
+Artist: 小緣
+Title: 優しい詩
+Album: 最新热歌慢摇101
+Track: 1
+Date: 2015-06-05
+Format: 44100:24:2
+mtime: 1504480680
+song_end
+song_begin: Raheem D - We Are Complicated (MASHUP).mp3
+Time: 247.170000
+Artist: Raheem D
+Title: We Are Complicated (MASHUP)
+Album: 最新热歌慢摇111
+Track: 1
+Format: 44100:24:2
+mtime: 1504480600
+song_end
+song_begin: まらしぃ - 72首动漫名曲钢琴演奏.mp3
+Time: 2506.135000
+Artist: まらしぃ
+Title: 72首动漫名曲钢琴演奏
+Album: 最新热歌慢摇116
+Track: 1
+Format: 44100:24:2
+mtime: 1504481009
+song_end
+song_begin: Susan Wong - Wind Of Change.mp3
+Time: 247.457000
+Artist: Susan Wong
+Title: Wind Of Change
+Album: 最新热歌慢摇69
+Track: 1
+Format: 44100:24:2
+mtime: 1504480813
+song_end
+song_begin: 花たん - 心做し.mp3
+Time: 268.721000
+Artist: 花たん
+Title: 心做し
+Album: 最新热歌慢摇82
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480837
+song_end
+song_begin: Hanser - 咚咚向前.mp3
+Time: 90.906000
+Artist: Hanser
+Title: 咚咚向前
+Album: 最新热歌慢摇92
+Track: 1
+Format: 44100:24:2
+mtime: 1504480827
+song_end
+song_begin: ゆめこ - 雨き声残響.mp3
+Time: 173.270000
+Artist: ゆめこ
+Title: 雨き声残響
+Album: 最新热歌慢摇92
+Track: 1
+Format: 44100:24:2
+mtime: 1504480619
+song_end
+song_begin: 张赫宣 - 我们不该这样的.mp3
+Time: 226.377000
+Artist: 张赫宣
+Title: 我们不该这样的
+Album: 北上广不相信眼泪 电视原声带
+Track: 2
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740490
+song_end
+song_begin: Jusqu'à Grand-Père - 桜道.mp3
+Time: 240.195000
+Artist: Jusqu'à Grand-Père
+Title: 桜道
+Album: 千年の恋
+Track: 1
+Date: 2012
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480944
+song_end
+song_begin: 南杉 - 樱花樱花想见你.mp3
+Time: 302.785000
+Artist: 南杉
+Title: 樱花樱花想见你
+Album: 南杉的翻唱大全
+Track: 11
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480623
+song_end
+song_begin: 郑伊健 - 友情岁月.mp3
+Time: 213.942000
+Artist: 郑伊健
+Title: 友情岁月
+Album: 古惑仔II之猛龙过江
+Track: 6
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480866
+song_end
+song_begin: 小松未歩 - 谜.mp3
+Time: 277.681000
+Artist: 小松未歩
+Title: 谜
+Album: 名探侦コナン テーマ曲集 ~THE BEST OF DETECTIVE CONAN~
+Track: 1
+Date: 2000
+Genre: J-Pop
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740484
+song_end
+song_begin: 宇徳敬子 - 光と影のロマン.mp3
+Time: 287.033000
+Artist: 宇徳敬子
+Title: 光と影のロマン
+Album: 名探侦コナン テーマ曲集 ~THE BEST OF DETECTIVE CONAN~
+Track: 6
+Date: 2000
+Genre: J-Pop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480683
+song_end
+song_begin: DEEN - 君がいない夏.mp3
+Time: 262.922000
+Artist: DEEN
+Title: 君がいない夏
+Album: 名探侦コナン テーマ曲集 ~THE BEST OF DETECTIVE CONAN~
+Track: 7
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480589
+song_end
+song_begin: 小松未歩 - 氷の上に立つように.mp3
+Time: 234.266000
+Artist: 小松未歩
+Title: 氷の上に立つように
+Album: 名探侦コナン テーマ曲集 ~THE BEST OF DETECTIVE CONAN~
+Track: 9
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740483
+song_end
+song_begin: 小松未歩 - あなたがいるから.mp3
+Time: 274.834000
+Artist: 小松未歩
+Title: あなたがいるから
+Album: 名探侦コナン テーマ曲集 ~THE BEST OF DETECTIVE CONAN~
+Track: 16
+Date: 2000
+Genre: J-Pop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480809
+song_end
+song_begin: なついろ - 君の涙にこんなに恋してる.mp3
+Time: 283.898000
+Artist: なついろ
+Title: 君の涙にこんなに恋してる
+Album: 名探偵コナン テーマ曲集5~THE BEST OF DETECTIVE CONAN5~
+Track: 4
+Date: 2014
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480797
+song_end
+song_begin: 伊織 - キミがいれば(世纪末ヴァージョン).mp3
+Time: 185.129000
+Artist: ÒÁ¿
+AlbumArtist: ´óÒ°¿Ë·ò
+Title: ¥­¥ß¤¬¤¤¤ì¤Ð(ÊÀ¼ÍÄ©¥ô¥¡©`¥¸¥ç¥ó)
+Album: 名探偵コナン「世紀末の魔術師」オリジナル・サウンドトラック
+Track: 26
+Genre: ¥µ¥¦¥ó¥É¥È¥é¥Ã¥¯
+Composer: ´óÒ°¿Ë·ò
+Disc: 1
+Format: 44100:24:2
+mtime: 1522165736
+song_end
+song_begin: 大野克夫 - ピアノとフルートのアメージング・グレイス.mp3
+Time: 99.082000
+Artist: ´óÒ°¿Ë·ò
+AlbumArtist: ´óÒ°¿Ë·ò
+Title: ピアノとフルートのアメージング・グレイス
+Album: 名探偵コナン「戦慄の楽譜」オリジナル・サウンドトラック
+Track: 22
+Date: 2008
+Genre: SCREEN MUSIC(SOUND TRACKS)
+Disc: 1
+Label: ¥Ó©`¥°¥é¥à
+Format: 44100:24:2
+mtime: 1522165738
+song_end
+song_begin: 大野克夫 - 怜子のアメージング・グレイス.mp3
+Time: 176.039000
+Artist: ´óÒ°¿Ë·ò
+AlbumArtist: ´óÒ°¿Ë·ò
+Title: 怜子のアメージング・グレイス
+Album: 名探偵コナン「戦慄の楽譜」オリジナル・サウンドトラック
+Track: 41
+Date: 2008
+Genre: SCREEN MUSIC(SOUND TRACKS)
+Disc: 1
+Label: ¥Ó©`¥°¥é¥à
+Format: 44100:24:2
+mtime: 1522165739
+song_end
+song_begin: 伊織 - キミがいれば(暗杀者バージョン).mp3
+Time: 186.357000
+Artist: 伊織
+Title: キミがいれば(暗杀者バージョン)
+Album: 名探偵コナン「瞳の中の暗殺者」オリジナル・サウンドトラック
+Track: 26
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480765
+song_end
+song_begin: 高山みなみ - ぼくがいる(银翼ヴァージョン)~コナンのテーマ~.mp3
+Time: 166.191000
+Artist: 高山みなみ
+Title: ぼくがいる(银翼ヴァージョン)~コナンのテーマ~
+Album: 名探偵コナン「銀翼の奇術師」オリジナル サウンドトラック
+Track: 37
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480697
+song_end
+song_begin: KOKIA - EXEC_COSMOFLIPS／.mp3
+Time: 216.685000
+Artist: KOKIA
+Title: EXEC_COSMOFLIPS/.
+Album: 咲夜琉命 ~Ar tonelicoIII hymmnos concert side. 苍~
+Track: 8
+Format: 44100:24:2
+mtime: 1539587102
+song_end
+song_begin: 岸部眞明 - 流れ行く云.mp3
+Time: 256.365000
+Artist: 岸部眞明
+Title: 流れ行く云
+Album: 奇迹の山
+Track: 7
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740492
+song_end
+song_begin: 宋冬野 - 安和桥.mp3
+Time: 251.036000
+Artist: 宋冬野
+Title: 安和桥
+Album: 安和桥北
+Track: 11
+Date: 2013-08-26
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480700
+song_end
+song_begin: まじ娘 - 心做し.mp3
+Time: 274.050000
+Artist: まじ娘
+Title: 心做し
+Album: 心做し
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480859
+song_end
+song_begin: 刘瑞琦 - 房间.mp3
+Time: 265.795000
+Artist: 刘瑞琦
+Title: 房间
+Album: 房间
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1522771592
+song_end
+song_begin: 春よ、来い-Akie秋绘.mp3
+Time: 267.128000
+Artist: Akie秋绘
+Title: 春よ、来い。春天，来吧。（Cover 松任谷由実）
+Album: 春雫。2017
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1535512549
+song_end
+song_begin: 鹿乃 - アイロニ.mp3
+Time: 250.383000
+Artist: 鹿乃
+Title: アイロニ
+Album: 暧昧ばんび~な
+Track: 11
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740486
+song_end
+song_begin: 春よ、来い-池田绫子.mp3
+Time: 285.518000
+Artist: 池田綾子
+Title: 春よ、来い
+Album: 東京カフェスタイル #3 ファンタジー
+Track: 13
+Date: 2013
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1536637726
+song_end
+song_begin: 春よ、来い.mp3
+Time: 285.675000
+Artist: 松任谷由実
+Title: 春よ、来い
+Album: 松任谷由実40周年記念ベストアルバム 日本の恋と、ユーミンと。
+Track: 36
+Disc: 1
+Format: 44100:24:2
+mtime: 1536636396
+song_end
+song_begin: 松任谷由実 - 春よ、来い.mp3
+Time: 309.342000
+Artist: 松任谷由実
+Title: 春よ、来い
+Album: 桜-SAKURA-
+Track: 9
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740498
+song_end
+song_begin: 井口裕香 - 白金ディスコ.mp3
+Time: 256.600000
+Artist: 井口裕香
+Title: 白金ディスコ
+Album: 歌物語 -＜物語＞シリーズ主題歌集-
+Track: 9
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480796
+song_end
+song_begin: ZARD - 運命のルーレット廻して.mp3
+Time: 303.464000
+Artist: ZARD
+Title: 運命のルーレット廻して
+Album: 永遠
+Track: 5
+Date: 1998
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740483
+song_end
+song_begin: Maxone,夏璃夜 - 没什么大不了（なんでもないや）（女声翻唱remix）.mp3
+Time: 208.248000
+Artist: Maxone/夏璃夜
+Title: 没什么大不了（なんでもないや）（女声翻唱remix）
+Album: 没什么大不了（なんでもないや）（女声翻唱remix）
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1534222592
+song_end
+song_begin: なんでもない.mp3
+Time: 208.248000
+Artist: Maxone
+Title: 没什么大不了（なんでもないや）（女声翻唱remix）
+Album: 没什么大不了（なんでもないや）（女声翻唱remix）
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1533172653
+song_end
+song_begin: 晴愔 - 眉间雪(剧情歌).mp3
+Time: 287.555000
+Artist: 晴愔
+Title: 眉间雪(剧情歌)
+Album: 热门华语244
+Track: 1
+Date: 2014
+Genre: Blues
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480810
+song_end
+song_begin: 晴愔 - 眉间雪(纯歌版).mp3
+Time: 260.075000
+Artist: 晴愔
+Title: 眉间雪(纯歌版)
+Album: 热门华语244
+Track: 1
+Date: 2014-06-12
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480818
+song_end
+song_begin: 少年霜,洛少爷 - 小孩儿难当.mp3
+Time: 177.893000
+Artist: 少年霜/洛少爷
+Title: 小孩儿难当
+Album: 热门华语262
+Track: 1
+Format: 44100:24:2
+mtime: 1504480728
+song_end
+song_begin: 引月兮 - 沧海映雪歌.mp3
+Time: 141.479000
+Artist: 引月兮
+Title: 沧海映雪歌
+Album: 热门华语264
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480684
+song_end
+song_begin: 纱治 - 飞鸿印雪（剑三-剧情）.mp3
+Time: 315.036000
+Artist: 纱治
+Title: 飞鸿印雪（剑三-剧情）
+Album: 热门华语272
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480766
+song_end
+song_begin: 封茗囧菌 - 东京不太热.mp3
+Time: 225.018000
+Artist: 封茗囧菌
+Title: 东京不太热
+Album: 热门华语281
+Track: 1
+Format: 44100:24:2
+mtime: 1504480900
+song_end
+song_begin: 朴树 - Baby ，До свидания.mp3
+Time: 246.386000
+Artist: 朴树
+Title: Baby ，До свидания
+Album: 猎户星座
+Track: 6
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480701
+song_end
+song_begin: 张卫健 - 真英雄.mp3
+Time: 264.777000
+Artist: 张卫健
+Title: 真英雄
+Album: 真英雄
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740468
+song_end
+song_begin: 空も飛ぺるはず.mp3
+Time: 270.994000
+Artist: スピッツ
+Title: 空も飛べるはず
+Album: 空も飛べるはず
+Track: 1
+Date: 1999
+Genre: JPop
+Disc: 1
+Format: 44100:24:2
+mtime: 1535909062
+song_end
+song_begin: 陈一发儿 - 童话镇.mp3
+Time: 257.959000
+Artist: 陈一发儿
+Title: 童话镇
+Album: 童话镇
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480877
+song_end
+song_begin: ZARD - 負けないで.mp3
+Time: 225.933000
+Artist: ZARD
+Title: 負けないで
+Album: 纪念ZARD·VC特辑
+Track: 4
+Date: 2007
+Genre: 日本流行乐
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740485
+song_end
+song_begin: 孙燕姿 - 遇见.mp3
+Time: 210.625000
+Artist: 孙燕姿
+Title: 遇见
+Album: 经典全纪录(主打精华版)
+Track: 29
+Disc: 1
+Format: 44100:24:2
+mtime: 1503840488
+song_end
+song_begin: Falcom Sound Team jdk - 星の在り処　 Instrumental Ver - instrumental.mp3
+Time: 283.115000
+Artist: Falcom Sound Team jdk
+Title: 星の在り処　 Instrumental Ver - instrumental
+Album: 英雄伝説 空の軌跡SC オリジナルサウンドトラック
+Track: 23
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480848
+song_end
+song_begin: La PomPon - 謎.mp3
+Time: 274.337000
+Artist: La PomPon
+Title: 謎
+Album: 謎 / ヤダ!嫌だ!ヤダ! ~Sweet Teens ver.~
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740479
+song_end
+song_begin: 买辣椒也用券 - 起风了（Cover 高橋優）.mp3
+Time: 323.552000
+Artist: 买辣椒也用券
+Title: 起风了（Cover 高橋優）
+Album: 起风了（Cover 高橋優-《ヤキモチ》）
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1522771605
+song_end
+song_begin: Galileo Galilei - 青い栞.mp3
+Time: 339.617000
+Artist: Galileo Galilei
+Title: 青い栞
+Album: 車輪の軸
+Track: 6
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480533
+song_end
+song_begin: 凌七芷,扶摇,琉盈Crissy - 还不是因为你长得不够帅（Cover Cut in love）.mp3
+Time: 263.993000
+Artist: 凌七芷/扶摇/琉盈Crissy/小次郎/梨落or/莫舞/二青/蓝褶/王二丫/千妍/昔染/倾之溯/未左/雪雪菜/Rika/千墨/笙烟/千夜/雨歆/阿呛
+Title: 还不是因为你长得不够帅（Cover Cut in love）
+Album: 还不是因为你长得不够帅
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1522771594
+song_end
+song_begin: GALA - 追梦赤子心.mp3
+Time: 317.440000
+Artist: GALA
+Title: 追梦赤子心
+Album: 追梦痴子心
+Track: 10
+Disc: 1
+Format: 44100:24:2
+mtime: 1504460723
+song_end
+song_begin: La PomPon - 運命のルーレット廻して.mp3
+Time: 203.337000
+Artist: La PomPon
+Title: 運命のルーレット廻して
+Album: 運命のルーレット廻して
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1519740474
+song_end
+song_begin: 银临,云の泣 - 锦鲤抄.mp3
+Time: 243.565000
+Artist: 银临/云の泣
+Title: 锦鲤抄
+Album: 锦鲤抄
+Track: 1
+Disc: 1
+Format: 44100:24:2
+mtime: 1504480885
+song_end
+end: CloudMusic

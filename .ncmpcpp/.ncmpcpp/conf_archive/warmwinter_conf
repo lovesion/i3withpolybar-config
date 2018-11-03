@@ -1,0 +1,36 @@
+mpd_music_dir = /home/yusu/Music
+
+# Playlist
+song_columns_list_format = "(6f)[default]{l} (30)[default]{t|f} (25)[default]{a} (40)[default]{b}"
+now_playing_prefix = "$b"
+now_playing_suffix = "$/b"
+playlist_display_mode = "columns" (classic/columns)
+autocenter_mode = "yes"
+centered_cursor = "yes"
+
+# Others
+song_window_title_format = "{%a - }{%t}{ - %b{ Disc %d}}|{%f}"
+search_engine_display_mode = "columns" (classic/columns)
+follow_now_playing_lyrics = "yes"
+clock_display_seconds = "yes"
+
+# Bars
+song_status_format = "$7%t » %a » %b"
+#progressbar_look = "|] "
+progressbar_look = "━■"
+titles_visibility = "yes"
+
+# Colors
+discard_colors_if_item_is_selected = "yes"
+header_window_color = "default"
+volume_color = "default"
+state_line_color = "default"
+state_flags_color = "default"
+main_window_color = "default"
+color1 = "default"
+color2 = "default"
+main_window_highlight_color = "default"
+progressbar_color = "default"
+statusbar_color = "default"
+active_column_color = "default"
+visualizer_color = "default"
