@@ -1,9 +1,10 @@
+216128
 [colors]
 ;background = #222
-background = #7a000000
+background = #5a000000
 background-alt = #444
-foreground = #66CCFF
-foreground-alt = #55
+foreground = #FFFFFF
+foreground-alt = #6CF   
 primary = #ffb52a
 secondary = #e60053
 alert = #bd2c40
@@ -51,7 +52,7 @@ font-4 = "material icons:pixelsize=16;3"
 modules-left = xwindow 
 modules-center = date
 
-modules-right = backlight-acpi alsa xkeyboard wlan eth battery 
+modules-right = backlight-acpi alsa xkeyboard wlan eth upload download battery 
 
 ;tray-background = #0063ff
 ;tray-transparent = true
@@ -116,9 +117,9 @@ cursor-scroll = ns-resize
 
 [module/xwindow]
 type = internal/xwindow
-label = %title%
-width = 50
-label-maxlen = 45
+label = %title%  
+width = 100
+label-maxlen = 90
 
 [module/xkeyboard]
 type = internal/xkeyboard
@@ -129,11 +130,11 @@ format-prefix-foreground = BF000000
 format-prefix-underline = BF000000
 
 label-layout = %layout%
-label-layout-underline = #BF000000
+label-layout-underline = #66ccff
 
 label-indicator-padding = 2
 label-indicator-margin = 1
-label-indicator-background = #BF000000
+label-indicator-background = ${colors.background}
 label-indicator-underline = #BF000000
 
 [module/filesystem]
@@ -195,21 +196,29 @@ label-visible-background = ${self.label-focused-background}
 label-visible-underline = ${self.label-focused-underline}
 label-visible-padding = ${self.label-focused-padding}
 
-ws-icon-0 = 1;
-ws-icon-1 = 2;
-ws-icon-2 = 3;
-ws-icon-3 = 4;
-ws-icon-6 = 5;
-ws-icon-7 = 6;
-ws-icon-8 = 7;
-ws-icon-9 = 8;
+;ws-icon-0 = 1;
+;ws-icon-1 = 2;
+;ws-icon-2 = 3;
+;ws-icon-3 = 4;
+;ws-icon-6 = 5;
+;ws-icon-7 = 6;
+;ws-icon-8 = 7;
+;ws-icon-9 = 8;
 
+[module/github]
+type = internal/github
+token = ${env:GITHUB_TOKEN}
+
+label = %notifications
+format-underline = #2AA198
+format-prefix =  
+format-prefix-foreground = #5b
 
 [module/mpd]
 type = internal/mpd
 format-online =  <icon-prev>  <icon-stop>  <toggle>  <icon-next>  <icon-repeat>  <label-song>
 
-label-offline =  mpd is offline
+label-offline = mpd is offline
 
 icon-prev = 
 icon-stop = 
@@ -217,11 +226,11 @@ icon-play = 
 icon-pause = 
 icon-next = 
 icon-repeat = 
-icon-repeatone = 
+icon-repeatone = ↻
 icon-random = 
 
-toggle-on-foreground = #66CCFF
-toggle-off-foreground = #66CCFF
+toggle-on-foreground = ${colors.foreground}
+toggle-off-foreground = ${colors.foreground}
 
 label-song-maxlen = 25
 label-song-ellipsis = true
@@ -231,7 +240,9 @@ label-song-ellipsis = true
 type = internal/xbacklight
 
 format = <label> <bar>
-label = BL
+;label = ◐
+label = 
+
 
 bar-width = 10
 bar-indicator = |
@@ -239,15 +250,19 @@ bar-indicator-foreground = #fff
 bar-indicator-font = 2
 bar-fill = ─
 bar-fill-font = 2
-bar-fill-foreground = #9f78e1
+;bar-fill-foreground = #9f78e1
+bar-fill-foreground = #66CCFF
 bar-empty = ─
 bar-empty-font = 2
-bar-empty-foreground = ${colors.foreground-alt}
+;bar-empty-foreground = ${colors.foreground-alt}
+bar-empty-foreground = #00000000
 
 [module/backlight-acpi]
 inherit = module/xbacklight
 type = internal/backlight
 card = intel_backlight
+
+
 
 [module/cpu]
 type = internal/cpu
@@ -255,15 +270,31 @@ interval = 2
 format-prefix = " "
 ;format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #f90000
-label = %percentage:2%%
+label = %percentage:%%
 
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = "▦"
-format-prefix-foreground = ${colors.foreground-alt}
+format-prefix = ▦
+format-prefix-foreground = ${colors.foreground}
 format-underline = #4bffdc
 label = %percentage_used%%
+
+[module/upload]
+type = internal/network
+interface =wlp3s0
+label-connected = %upspeed:7%
+format-connected = <label-connected>
+format-connected-prefix = " "
+format-connected-prefix-foreground = ${colors.foreground}
+
+[module/download]
+type = internal/network
+interface = wlp3s0
+label-connected = %downspeed:7%
+format-connected= <label-connected>
+format-connected-prefix = " "
+format-connected-prefix-foreground = ${colors.foreground}
 
 [module/wlan]
 type = internal/network
@@ -295,7 +326,7 @@ interface = wlp3s0
 interval = 3.0
 
 format-connected-underline = #55aa55
-format-connected-prefix = "📶"
+format-connected-prefix = 📶
 format-connected-prefix-foreground = ${colors.foreground-alt}
 label-connected = %local_ip%
 
@@ -307,19 +338,19 @@ format-disconnected =
 
 [module/date]
 type = internal/date
-interval = 10
+interval = 1
 
-date = %Y-%m-%d %A 
+date =  %Y-%m-%d %A 
 date-alt = " %Y-%m-%d"
 
-time = %H:%M:%S %p
+time =   %H:%M:%S %p
 time-alt = %H:%M:%S
 
-format-prefix = 
+format-prefix =
 ;format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #0a6cf5
 
-label = %date% %time%
+label = %date%   %time%
 
 
 [module/alsa]
@@ -348,13 +379,15 @@ bar-volume-fill = ─
 bar-volume-fill-font = 2
 bar-volume-empty = ─
 bar-volume-empty-font = 2
-bar-volume-empty-foreground = ${colors.foreground-alt}
+;bar-volume-empty-foreground = ${colors.foreground-alt}
+bar-volume-empty-foreground = #00000000
 
 [module/battery]
 type = internal/battery
 battery = BAT0
 adapter = ADP1
 full-at = 98
+time-format = %H:%M
 
 format-charging = <animation-charging> <label-charging>
 format-charging-underline = #ffb52a
