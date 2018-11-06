@@ -137,7 +137,7 @@ set $WS7   7:
 set $WS8   8:
 set $WS9   9:
 set $WS0  10:
-
+set $WSE   0:
 
 # switch to workspace
 bindsym $mod+1 workspace $WS1
@@ -150,6 +150,7 @@ bindsym $mod+7 workspace $WS7
 bindsym $mod+8 workspace $WS8
 bindsym $mod+9 workspace $WS9
 bindsym $mod+0 workspace $WS0
+bindsym $mod+- workspace $WSE
 
 # move focused container to workspace
 bindsym ctrl+Mod1+1 move container to workspace $WS1
@@ -162,7 +163,7 @@ bindsym ctrl+Mod1+7 move container to workspace $WS7
 bindsym ctrl+Mod1+8 move container to workspace $WS8
 bindsym ctrl+Mod1+9 move container to workspace $WS9
 bindsym ctrl+Mod1+0 move container to workspace $WS0
-
+bindsym ctrl+Mod1+- move container to workspace $WSE
 
 #:::::::::::: Desactivar los bordes de ventanas :::::::::::::::#
 ################################################################

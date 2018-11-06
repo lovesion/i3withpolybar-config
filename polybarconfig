@@ -1,4 +1,3 @@
-216128
 [colors]
 ;background = #222
 background = #5a000000
@@ -11,6 +10,7 @@ alert = #bd2c40
 
 
 [bar/top]
+;monitor = ${env:MONITOR:HDMI-1-2}
 monitor = ${env:MONITOR:eDP-1-1}
 dpi = 80
 bottom = false
@@ -365,18 +365,18 @@ format-muted-foreground = ${colors.foreground-alt}
 label-muted = sound muted
 
 bar-volume-width = 10
-bar-volume-foreground-0 = #55aa55
-bar-volume-foreground-1 = #55aa55
-bar-volume-foreground-2 = #55aa55
-bar-volume-foreground-3 = #55aa55
-bar-volume-foreground-4 = #55aa55
-bar-volume-foreground-5 = #f5a70a
-bar-volume-foreground-6 = #ff5555
+bar-volume-foreground-0 = #66ccff
+bar-volume-foreground-1 = #66ccff
+bar-volume-foreground-2 = #66ccff
+bar-volume-foreground-3 = #66ccff
+bar-volume-foreground-4 = #66ccff
+bar-volume-foreground-5 = #66ccff
+bar-volume-foreground-6 = #66ccff
 bar-volume-gradient = false
 bar-volume-indicator = |
 bar-volume-indicator-font = 2
 bar-volume-fill = ─
-bar-volume-fill-font = 2
+bar-volume-fill-font = 4
 bar-volume-empty = ─
 bar-volume-empty-font = 2
 ;bar-volume-empty-foreground = ${colors.foreground-alt}
