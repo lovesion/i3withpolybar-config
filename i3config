@@ -40,8 +40,8 @@ bindsym $mod+Shift+q kill
 # My Hotkeys
 bindsym ctrl+Mod1+Return exec netease-cloud-music
 bindsym ctrl+Mod1+w exec firefox
-bindsym ctrl+Mod1+t exec vivaldi-stable
-bindsym ctrl+Mod1+o exec chrome
+bindsym ctrl+Mod1+v exec vivaldi-stable
+bindsym ctrl+Mod1+c exec google-chrome-stable
 bindsym ctrl+Mod1+a exec deepin-screenshot
 
 bindsym ctrl+Mod1+h workspace prev
@@ -51,10 +51,10 @@ bindsym ctrl+Mod1+Right workspace next
 bindsym ctrl+$Mod+l exec "i3lock-fancy -gpf Monaco"
 
 # 背光
-bindsym ctrl+Mod1+Up exec "backlight_control +10"
-bindsym ctrl+Mod1+Down exec "backlight_control -10"
-bindsym ctrl+Mod1+k exec "backlight_control +10"
-bindsym ctrl+Mod1+j exec "backlight_control -10"
+bindsym XF86MonBrightnessUp exec "backlight_control +10"
+bindsym XF86MonBrightnessDown exec "backlight_control -10"
+#bindsym ctrl+Mod1+6 exec "backlight_control +10"
+#9bindsym xf86Backlightdown exec "backlight_control -10"
 
 
 
@@ -64,8 +64,13 @@ bindsym ctrl+Mod1+p exec mpc toggle
 bindsym ctrl+Mod1+period exec mpc next
 bindsym ctrl+Mod1+comma exec mpc prev
 
+# Volume
+bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -c 0 -q set Master 2dB+ unmute
+bindsym XF86AudioLowerVolume exec --no-startup-id amixer -c 0 -q set Master 2dB- unmute
+bindsym XF86AudioMute exec --no-startup-id amixer -q set Master toggle
+
 # start Explorer
-bindsym $mod+e exec nautilus -w
+bindsym $mod+e exec thunar 
 # start dmenu (a program launcher)
 
 bindsym $mod+x exec rofi -show run
@@ -245,14 +250,14 @@ client.unfocused #333333 #333333 #888888 #292d2e
 
 
 
-exec_always --no-startup-id feh --bg-scale /home/lovesion/图片/01.jpg
 # Autostartwh
-exec_always --no-startup-id /usr/bin/variety
+exec_always --no-startup-id $HOME/feh.sh
+#exec_always --no-startup-id /usr/bin/variety
 exec_always --no-startup-id /usr/bin/fcitx 
 exec --no-startup-id compton &
-# exec --no-startup-id volumeicon
+exec --no-startup-id volumeicon
 exec_always --no-startup-id $HOME/Text-File/launch-polybar.sh
-
+exec_always --no-startup-id exec xinput disable 17
 
 # i3 gap and border starts
 #::::::::::::::::::: Settings for i3-gaps :::::::::::::::::::::#
